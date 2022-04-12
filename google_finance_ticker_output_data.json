@@ -1,0 +1,464 @@
+{
+  "ticker_data": {
+    "current_price": "$2,576.47",
+    "quote": "GOOGL:NASDAQ",
+    "title": "Alphabet Inc Class A"
+  },
+  "about_panel": {
+    "previous_close": "$2,665.75",
+    "day_range": "$2,573.37 - $2,641.85",
+    "year_range": "$2,193.62 - $3,030.93",
+    "market_cap": "1.80T USD",
+    "volume": "1.54M",
+    "p/e_ratio": "22.96",
+    "dividend_yield": "-",
+    "primary_exchange": "NASDAQ",
+    "ceo": "Sundar Pichai",
+    "founded": "Oct 2, 2015",
+    "headquarters": "Mountain View, CaliforniaUnited States",
+    "website": "abc.xyz",
+    "employees": "156,500",
+    "description": "Alphabet Inc. is an American multinational technology conglomerate holding company headquartered in Mountain View, California. It was created through a restructuring of Google on October 2, 2015, and became the parent company of Google and several former Google subsidiaries. The two co-founders of Google remained as controlling shareholders, board members, and employees at Alphabet. Alphabet is the world's third-largest technology company by revenue and one of the world's most valuable companies. It is one of the Big Five American information technology companies, alongside Amazon, Apple, Meta and Microsoft.\nThe establishment of Alphabet Inc. was prompted by a desire to make the core Google business \"cleaner and more accountable\" while allowing greater autonomy to group companies that operate in businesses other than Internet services. Founders Larry Page and Sergey Brin announced their resignation from their executive posts in December 2019, with the CEO role to be filled by Sundar Pichai, also the CEO of Google. Page and Brin remain co-founders, employees, board members, and controlling shareholders of Alphabet Inc. ",
+    "extensions": [
+      "Stock",
+      "US listed security",
+      "US headquartered"
+    ]
+  },
+  "news": {
+    "items": [
+      {
+        "position": 1,
+        "title": "Alphabet CEO Pichai earned $6.3 million in 2021; Mulally to exit board \n(NASDAQ:GOOG)",
+        "link": "https://seekingalpha.com/news/3822140-alphabet-ceo-pichai-earned-63-million-in-2021-mulally-to-exit-board",
+        "source": "Seeking Alpha",
+        "published": "3 days ago",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQZuJA4VBFnAB9RLyTc6a3vkEd_WO16aamNJ6V3UNjkhZiUGS4HiH6BMiV43N0"
+      },
+      {
+        "position": 2,
+        "title": "Amazon Splitting Stock, Alphabet Too. Which Joins the Dow First?",
+        "link": "https://www.barrons.com/articles/amazon-stock-split-dow-jones-51646912881?tesla=y",
+        "source": "Barron's",
+        "published": "1 month ago",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRlf6wb63KP9lMPsOheYDvvANIfevHp17lzZ-Y0d0aQO1-pRCIDX8POXGtZBQk"
+      },
+      {
+        "position": 3,
+        "title": "Alphabet's quantum tech group Sandbox spins off into an independent company",
+        "link": "https://www.cnbc.com/2022/03/22/alphabets-quantum-tech-group-sandbox-spins-off-into-an-independent-company.html",
+        "source": "CNBC",
+        "published": "3 weeks ago",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSIyv1WZJgDvwtMW8e3RAs9ImXtTZSmo2rfmCKIASk4B_XofZfZ8AbDLAMolhk"
+      },
+      {
+        "position": 4,
+        "title": "Alphabet Stock: Bear vs. Bull",
+        "link": "https://www.fool.com/investing/2022/03/22/alphabet-stock-bear-vs-bull/",
+        "source": "The Motley Fool",
+        "published": "3 weeks ago",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS_vlZSfl21X7x_3Q9fCULpv-m5H6jkr7Jcy4S881iVlw8OC6I2gyft8bKc8Y"
+      },
+      {
+        "position": 5,
+        "title": "Cash-Rich Berkshire Hathaway, Apple, and Alphabet Should Gain From Higher \nRates",
+        "link": "https://www.barrons.com/articles/cash-rich-berkshire-hathaway-apple-and-alphabet-should-gain-from-higher-rates-51647614268",
+        "source": "Barron's",
+        "published": "3 weeks ago",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSZ6dJ9h9vXlKrWlTmHiHxlfYVbViP5DAr9a_xV4LhNUOaNS01RuPmt-5sjh4c"
+      },
+      {
+        "position": 6,
+        "title": "Amazon's Stock Split Follows Alphabet's. Here's Who's Next.",
+        "link": "https://www.barrons.com/articles/amazon-stock-split-who-next-51646944161",
+        "source": "Barron's",
+        "published": "1 month ago",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJGKk2i1kLT_YToKJlJnhWaaj_ujLvhhZ5Obw_suZcu_YyaDD6O_Llsm1aqt8"
+      }
+    ]
+  },
+  "finance_perfomance": {
+    "table": [
+      {
+        "Revenue": {
+          "Dec 2021": "75.32B",
+          "Year/year change": "32.39%"
+        }
+      },
+      {
+        "Net income": {
+          "Dec 2021": "20.64B",
+          "Year/year change": "35.56%"
+        }
+      },
+      {
+        "Diluted EPS": {
+          "Dec 2021": "30.69",
+          "Year/year change": "37.62%"
+        }
+      },
+      {
+        "Net profit margin": {
+          "Dec 2021": "27.40%",
+          "Year/year change": "2.39%"
+        }
+      },
+      {
+        "Operating income": {
+          "Dec 2021": "21.88B",
+          "Year/year change": "39.83%"
+        }
+      },
+      {
+        "Net change in cash": {
+          "Dec 2021": "-2.77B",
+          "Year/year change": "-143.78%"
+        }
+      },
+      {
+        "Cash and equivalents": {
+          "Dec 2021": "20.94B",
+          "Year/year change": "-20.86%"
+        }
+      },
+      {
+        "Cost of revenue": {
+          "Dec 2021": "32.99B",
+          "Year/year change": "26.49%"
+        }
+      }
+    ]
+  },
+  "people_also_search_for": {
+    "items": [
+      {
+        "position": 1,
+        "ticker": "GOOG",
+        "ticker_link": "https://www.google.com/finance/quote/GOOG:NASDAQ",
+        "title": "Alphabet Inc Class C",
+        "price": "$2,595.93",
+        "price_change": "Down by 3.14%",
+        "price_change_formatted": "3.14%"
+      },
+      {
+        "position": 2,
+        "ticker": "AMZN",
+        "ticker_link": "https://www.google.com/finance/quote/AMZN:NASDAQ",
+        "title": "Amazon.com, Inc.",
+        "price": "$3,022.44",
+        "price_change": "Down by 2.16%",
+        "price_change_formatted": "2.16%"
+      },
+      {
+        "position": 3,
+        "ticker": "AAPL",
+        "ticker_link": "https://www.google.com/finance/quote/AAPL:NASDAQ",
+        "title": "Apple Inc",
+        "price": "$165.75",
+        "price_change": "Down by 2.55%",
+        "price_change_formatted": "2.55%"
+      },
+      {
+        "position": 4,
+        "ticker": "MSFT",
+        "ticker_link": "https://www.google.com/finance/quote/MSFT:NASDAQ",
+        "title": "Microsoft Corporation",
+        "price": "$285.26",
+        "price_change": "Down by 3.94%",
+        "price_change_formatted": "3.94%"
+      },
+      {
+        "position": 5,
+        "ticker": "NVDA",
+        "ticker_link": "https://www.google.com/finance/quote/NVDA:NASDAQ",
+        "title": "NVIDIA Corporation",
+        "price": "$219.17",
+        "price_change": "Down by 5.20%",
+        "price_change_formatted": "5.20%"
+      },
+      {
+        "position": 6,
+        "ticker": "NFLX",
+        "ticker_link": "https://www.google.com/finance/quote/NFLX:NASDAQ",
+        "title": "Netflix Inc",
+        "price": "$348.00",
+        "price_change": "Down by 2.21%",
+        "price_change_formatted": "2.21%"
+      },
+      {
+        "position": 7,
+        "ticker": "FB",
+        "ticker_link": "https://www.google.com/finance/quote/FB:NASDAQ",
+        "title": "Meta Platforms Inc",
+        "price": "$216.46",
+        "price_change": "Down by 2.64%",
+        "price_change_formatted": "2.64%"
+      },
+      {
+        "position": 8,
+        "ticker": "QQQ",
+        "ticker_link": "https://www.google.com/finance/quote/QQQ:NASDAQ",
+        "title": "Invesco QQQ Trust Series 1",
+        "price": "$340.89",
+        "price_change": "Down by 2.37%",
+        "price_change_formatted": "2.37%"
+      },
+      {
+        "position": 9,
+        "ticker": "TSLA",
+        "ticker_link": "https://www.google.com/finance/quote/TSLA:NASDAQ",
+        "title": "Tesla Inc",
+        "price": "$975.93",
+        "price_change": "Down by 4.83%",
+        "price_change_formatted": "4.83%"
+      },
+      {
+        "position": 10,
+        "ticker": "PYPL",
+        "ticker_link": "https://www.google.com/finance/quote/PYPL:NASDAQ",
+        "title": "PayPal Holdings Inc",
+        "price": "$109.81",
+        "price_change": "Down by 1.26%",
+        "price_change_formatted": "1.26%"
+      },
+      {
+        "position": 11,
+        "ticker": "TQQQ",
+        "ticker_link": "https://www.google.com/finance/quote/TQQQ:NASDAQ",
+        "title": "ProShares UltraPro QQQ",
+        "price": "$48.16",
+        "price_change": "Down by 7.10%",
+        "price_change_formatted": "7.10%"
+      },
+      {
+        "position": 12,
+        "ticker": "BRK.B",
+        "ticker_link": "https://www.google.com/finance/quote/BRK.B:NYSE",
+        "title": "Berkshire Hathaway Inc. Class B",
+        "price": "$352.02",
+        "price_change": "Down by 0.31%",
+        "price_change_formatted": "0.31%"
+      },
+      {
+        "position": 13,
+        "ticker": "LCID",
+        "ticker_link": "https://www.google.com/finance/quote/LCID:NASDAQ",
+        "title": "Lucid Group Inc",
+        "price": "$21.70",
+        "price_change": "Up by 0.14%",
+        "price_change_formatted": "0.14%"
+      },
+      {
+        "position": 14,
+        "ticker": "ORCL",
+        "ticker_link": "https://www.google.com/finance/quote/ORCL:NYSE",
+        "title": "Oracle Corporation",
+        "price": "$79.76",
+        "price_change": "Down by 1.46%",
+        "price_change_formatted": "1.46%"
+      },
+      {
+        "position": 15,
+        "ticker": "AMD",
+        "ticker_link": "https://www.google.com/finance/quote/AMD:NASDAQ",
+        "title": "Advanced Micro Devices, Inc.",
+        "price": "$97.37",
+        "price_change": "Down by 3.59%",
+        "price_change_formatted": "3.59%"
+      },
+      {
+        "position": 16,
+        "ticker": "SPY",
+        "ticker_link": "https://www.google.com/finance/quote/SPY:NYSEARCA",
+        "title": "SPDR S&P 500 ETF Trust",
+        "price": "$439.92",
+        "price_change": "Down by 1.71%",
+        "price_change_formatted": "1.71%"
+      },
+      {
+        "position": 17,
+        "ticker": "RIVN",
+        "ticker_link": "https://www.google.com/finance/quote/RIVN:NASDAQ",
+        "title": "Rivian Automotive Inc",
+        "price": "$39.50",
+        "price_change": "Up by 1.80%",
+        "price_change_formatted": "1.80%"
+      },
+      {
+        "position": 18,
+        "ticker": "SQ",
+        "ticker_link": "https://www.google.com/finance/quote/SQ:NYSE",
+        "title": "Block Inc",
+        "price": "$123.08",
+        "price_change": "Down by 0.11%",
+        "price_change_formatted": "0.11%"
+      }
+    ]
+  },
+  "interested_in": {
+    "items": [
+      {
+        "position": 1,
+        "ticker": "Index",
+        "ticker_link": "https://www.google.com/finance/quote/.INX:INDEXSP",
+        "title": "S&P 500",
+        "price": "4,412.53",
+        "price_change": "Down by 1.69%",
+        "price_change_formatted": "1.69%"
+      },
+      {
+        "position": 2,
+        "ticker": "Index",
+        "ticker_link": "https://www.google.com/finance/quote/.DJI:INDEXDJX",
+        "title": "Dow Jones Industrial Average",
+        "price": "34,308.08",
+        "price_change": "Down by 1.19%",
+        "price_change_formatted": "1.19%"
+      },
+      {
+        "position": 3,
+        "ticker": "TSLA",
+        "ticker_link": "https://www.google.com/finance/quote/TSLA:NASDAQ",
+        "title": "Tesla Inc",
+        "price": "$975.93",
+        "price_change": "Down by 4.83%",
+        "price_change_formatted": "4.83%"
+      },
+      {
+        "position": 4,
+        "ticker": "AAPL",
+        "ticker_link": "https://www.google.com/finance/quote/AAPL:NASDAQ",
+        "title": "Apple Inc",
+        "price": "$165.75",
+        "price_change": "Down by 2.55%",
+        "price_change_formatted": "2.55%"
+      },
+      {
+        "position": 5,
+        "ticker": "Index",
+        "ticker_link": "https://www.google.com/finance/quote/IMOEX:MCX",
+        "title": "MOEX Russia Index",
+        "price": "2,570.25",
+        "price_change": "Up by 0.51%",
+        "price_change_formatted": "0.51%"
+      },
+      {
+        "position": 6,
+        "ticker": "AMZN",
+        "ticker_link": "https://www.google.com/finance/quote/AMZN:NASDAQ",
+        "title": "Amazon.com, Inc.",
+        "price": "$3,022.44",
+        "price_change": "Down by 2.16%",
+        "price_change_formatted": "2.16%"
+      },
+      {
+        "position": 7,
+        "ticker": "3480",
+        "ticker_link": "https://www.google.com/finance/quote/3480:TYO",
+        "title": "J.S.B. Co Ltd",
+        "price": "¥3,450.00",
+        "price_change": "Changed by 0.00%",
+        "price_change_formatted": "0.00%"
+      },
+      {
+        "position": 8,
+        "ticker": "888",
+        "ticker_link": "https://www.google.com/finance/quote/888:LON",
+        "title": "888 Holdings PLC",
+        "price": "GBX 211.72",
+        "price_change": "Down by 0.88%",
+        "price_change_formatted": "0.88%"
+      },
+      {
+        "position": 9,
+        "ticker": "BA",
+        "ticker_link": "https://www.google.com/finance/quote/BA:NYSE",
+        "title": "Boeing Co",
+        "price": "$175.03",
+        "price_change": "Down by 0.097%",
+        "price_change_formatted": "7%"
+      },
+      {
+        "position": 10,
+        "ticker": "KO",
+        "ticker_link": "https://www.google.com/finance/quote/KO:NYSE",
+        "title": "Coca-Cola Co",
+        "price": "$63.81",
+        "price_change": "Down by 0.031%",
+        "price_change_formatted": "1%"
+      },
+      {
+        "position": 11,
+        "ticker": "YFI",
+        "ticker_link": "https://www.google.com/finance/quote/YFI:CVE",
+        "title": "Edgewater Wireless Systems Inc",
+        "price": "$0.070",
+        "price_change": "Changed by 0.00%",
+        "price_change_formatted": "0.00%"
+      },
+      {
+        "position": 12,
+        "ticker": "Index",
+        "ticker_link": "https://www.google.com/finance/quote/.IXIC:INDEXNASDAQ",
+        "title": "Nasdaq Composite",
+        "price": "13,411.96",
+        "price_change": "Down by 2.18%",
+        "price_change_formatted": "2.18%"
+      },
+      {
+        "position": 13,
+        "ticker": "Index",
+        "ticker_link": "https://www.google.com/finance/quote/NDX:INDEXNASDAQ",
+        "title": "Nasdaq-100",
+        "price": "13,990.20",
+        "price_change": "Down by 2.35%",
+        "price_change_formatted": "2.35%"
+      },
+      {
+        "position": 14,
+        "ticker": "PKN",
+        "ticker_link": "https://www.google.com/finance/quote/PKN:WSE",
+        "title": "Polski Koncern Naftowy ORLEN SA",
+        "price": "zł 78.70",
+        "price_change": "Changed by 0.00%",
+        "price_change_formatted": "0.00%"
+      },
+      {
+        "position": 15,
+        "ticker": "FB",
+        "ticker_link": "https://www.google.com/finance/quote/FB:NASDAQ",
+        "title": "Meta Platforms Inc",
+        "price": "$216.46",
+        "price_change": "Down by 2.64%",
+        "price_change_formatted": "2.64%"
+      },
+      {
+        "position": 16,
+        "ticker": "Index",
+        "ticker_link": "https://www.google.com/finance/quote/DAX:INDEXDB",
+        "title": "DAX PERFORMANCE-INDEX",
+        "price": "14,192.78",
+        "price_change": "Down by 0.64%",
+        "price_change_formatted": "0.64%"
+      },
+      {
+        "position": 17,
+        "ticker": "T",
+        "ticker_link": "https://www.google.com/finance/quote/T:NYSE",
+        "title": "AT&T Inc.",
+        "price": "$19.63",
+        "price_change": "Up by 7.74%",
+        "price_change_formatted": "7.74%"
+      },
+      {
+        "position": 18,
+        "ticker": "NFLX",
+        "ticker_link": "https://www.google.com/finance/quote/NFLX:NASDAQ",
+        "title": "Netflix Inc",
+        "price": "$348.00",
+        "price_change": "Down by 2.21%",
+        "price_change_formatted": "2.21%"
+      }
+    ]
+  }
+}
