@@ -125,9 +125,9 @@ def scrape_google_finance(ticker: str):
 def discover_more_tickers(index: int, other_data: str):
     """
     if price_change_formatted will start complaining,
-    check beforehand for None values with try/except or if statement and set it to 0.
+    check beforehand for None values with try/except and set it to 0, in this function.
     
-    however, re.search(r"\d{1}%|\d{1,10}\.\d{1,2}%" should get the job done.
+    however, re.search(r"\d{1}%|\d{1,10}\.\d{1,2}%" should make the job done.
     """
     return {
             "position": index,
