@@ -4,9 +4,9 @@
 
 ### 📜 Scripts in this repo extracts:
 
-- Main Page data.
-- Google Finance Ticker (Quote) data.
-- Google Finance Markets (_WIP_ ✍)
+- [Main Page](https://github.com/dimitryzub/google-finance-py/blob/c68e294f0b096f5b38d9ac11994f792591cd6554/scrape-google-finance-main-page.py).
+- [Google Finance Ticker (Quote)](https://github.com/dimitryzub/google-finance-py/blob/4bb104a2b32114dc62c231e2dcb023cfdeb4b75f/scrape_google_finance_ticker.py).
+- [Google Finance Markets](https://github.com/dimitryzub/google-finance-py/blob/c68e294f0b096f5b38d9ac11994f792591cd6554/scrape_google_finance_markets.py).
 
 <p align="center">
   Sponsored by <a href="https://serpapi.com/">SerpApi</a> 💜
